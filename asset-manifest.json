@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Jabi-Jaleel/tic-tac-toe/static/css/main.7e65bb18.chunk.css",
+    "main.js": "/Jabi-Jaleel/tic-tac-toe/static/js/main.6cf7f740.chunk.js",
+    "main.js.map": "/Jabi-Jaleel/tic-tac-toe/static/js/main.6cf7f740.chunk.js.map",
+    "runtime-main.js": "/Jabi-Jaleel/tic-tac-toe/static/js/runtime-main.9bd07cd8.js",
+    "runtime-main.js.map": "/Jabi-Jaleel/tic-tac-toe/static/js/runtime-main.9bd07cd8.js.map",
+    "static/js/2.57343eaf.chunk.js": "/Jabi-Jaleel/tic-tac-toe/static/js/2.57343eaf.chunk.js",
+    "static/js/2.57343eaf.chunk.js.map": "/Jabi-Jaleel/tic-tac-toe/static/js/2.57343eaf.chunk.js.map",
+    "index.html": "/Jabi-Jaleel/tic-tac-toe/index.html",
+    "precache-manifest.6c394677a88d85fd3581e41c5f72f05d.js": "/Jabi-Jaleel/tic-tac-toe/precache-manifest.6c394677a88d85fd3581e41c5f72f05d.js",
+    "service-worker.js": "/Jabi-Jaleel/tic-tac-toe/service-worker.js",
+    "static/css/main.7e65bb18.chunk.css.map": "/Jabi-Jaleel/tic-tac-toe/static/css/main.7e65bb18.chunk.css.map",
+    "static/js/2.57343eaf.chunk.js.LICENSE.txt": "/Jabi-Jaleel/tic-tac-toe/static/js/2.57343eaf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bd07cd8.js",
+    "static/js/2.57343eaf.chunk.js",
+    "static/css/main.7e65bb18.chunk.css",
+    "static/js/main.6cf7f740.chunk.js"
+  ]
+}
